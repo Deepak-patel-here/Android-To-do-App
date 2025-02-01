@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">To-Do List </string>
+    <string name="search">Search for task</string>
+    <string name="add">Add</string>
+    <string name="alertEdtHint">Enter your task</string>
+    <string name="alertBtnDone">Done</string>
+    <string name="custom_layout_text">The added task</string>
+</resources>
